@@ -1,2 +1,2 @@
   
-![Alt Text]("HowToLaunchJN.gif")
+![Alt Text](https://github.com/FrancescaPianosi/RRmodelling/blob/main/HowToLaunchJN.gif)
